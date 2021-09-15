@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="7.348">
-    <testcase classname="Test case 'loanapproval-process'" name="LoanApproved" time="6.265">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="6.22">
+    <testcase classname="Test case 'loanapproval-process'" name="LoanApproved" time="5.251">
         <system-out>
             <![CDATA[Given a customer approached for loan........................................passed
 When a customer approached for loan with the following data.................passed
@@ -12,7 +12,7 @@ And the human task 'Approval Documentation' is Completed by 'rhpamAdmin' with pa
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Test case 'loanapproval-process'" name="LoanRejected" time="0.83">
+    <testcase classname="Test case 'loanapproval-process'" name="LoanRejected" time="0.678">
         <system-out>
             <![CDATA[Given a customer approached for loan........................................passed
 When a customer approached for loan with the following data.................passed
